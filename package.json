@@ -13,7 +13,7 @@
     "@docusaurus/core": "^2.0.0-alpha.68",
     "@docusaurus/preset-classic": "^2.0.0-alpha.68",
     "classnames": "^2.2.6",
-    "prettier": "^2.0.4",
+    "prettier": "^2.2.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
@@ -21,7 +21,7 @@
     "@adeira/eslint-config": "^3.1.1",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.7.0",
-    "flow-bin": "^0.132.0"
+    "flow-bin": "^0.138.0"
   },
   "browserslist": {
     "production": [
