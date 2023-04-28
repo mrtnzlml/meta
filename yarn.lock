@@ -6920,30 +6920,30 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hermes-eslint@npm:^0.10.1":
-  version: 0.10.1
-  resolution: "hermes-eslint@npm:0.10.1"
+"hermes-eslint@npm:^0.11.0":
+  version: 0.11.0
+  resolution: "hermes-eslint@npm:0.11.0"
   dependencies:
     esrecurse: ^4.3.0
-    hermes-estree: 0.10.1
-    hermes-parser: 0.10.1
-  checksum: e22b3937e53e4b605fa964ec7576dcd242787a4599ee749ccdb05569950cfd4d36962a80291c927d5fd6c662ad9b0657b580a04a45b10246cfd0349469083eb7
+    hermes-estree: 0.11.0
+    hermes-parser: 0.11.0
+  checksum: f3bec3d8c64819de53e49804c89b50d4114400f96b81c9fd8797fe6a33e1635550290cfbd7106c2fd34fc3bb047dc2b8ce1f1e8d1144b950eb75dbefb2a7f649
   languageName: node
   linkType: hard
 
-"hermes-estree@npm:0.10.1":
-  version: 0.10.1
-  resolution: "hermes-estree@npm:0.10.1"
-  checksum: f4ab40d49daf429941ed7a123577461a829d991046e05ed0b9a8151b9fb7abd71c537353a8bb96dd422bd019399527991b827e0fc5f25106284a7267084787b6
+"hermes-estree@npm:0.11.0":
+  version: 0.11.0
+  resolution: "hermes-estree@npm:0.11.0"
+  checksum: 96d57bca3de28ffe495b8a6ef079108113ecfcb4038eb5a3ef3988660fedb5b2cf25524f0eb8b23b2dbf48164aa5931a9b4f777540a0a2f565971b08e125481f
   languageName: node
   linkType: hard
 
-"hermes-parser@npm:0.10.1":
-  version: 0.10.1
-  resolution: "hermes-parser@npm:0.10.1"
+"hermes-parser@npm:0.11.0":
+  version: 0.11.0
+  resolution: "hermes-parser@npm:0.11.0"
   dependencies:
-    hermes-estree: 0.10.1
-  checksum: beec5f114a3438c89bd9160ff64052edbb7dc20c73f29e297cb997682a65f7e1fb710d0225313fba1c7ee8808348cafb179e182ccee2dc21a2a838096a09ac39
+    hermes-estree: 0.11.0
+  checksum: 9d31426f727a1aa51d9fc298bbe17fda7e9e71140f49c46286712072260858e91033729fff72a728f3f14c94330b3a8534bc441e8265ce5343e836b3d1cb8e29
   languageName: node
   linkType: hard
 
@@ -8383,7 +8383,7 @@ __metadata:
     "@docusaurus/core": ^2.4.0
     "@docusaurus/preset-classic": ^2.4.0
     eslint: ^8.39.0
-    hermes-eslint: ^0.10.1
+    hermes-eslint: ^0.11.0
     react: ^17.0.2
     react-dom: ^17.0.2
   languageName: unknown
